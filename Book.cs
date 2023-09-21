@@ -13,7 +13,19 @@ public class Book
 
     public void ValidateTitle()
     {
+        if (Title == null)
+        {
+            throw new ArgumentNullException("Cannot be null");
+        }
+        if (Title.Length < 3)
+        {
+            throw new ArgumentException("Must be longer than 3 characthers");
+        }
+    }
 
+    public void ValidatePrice()
+    {
+        //test
     }
 
 }
