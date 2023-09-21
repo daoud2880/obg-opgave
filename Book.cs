@@ -25,7 +25,7 @@ public class Book
 
     public void ValidatePrice()
     {
-        if (Price < 0 || Price > 1200)
+        if (Price <= 0 || Price > 1200)
         {
             throw new ArgumentOutOfRangeException("Price cannot be less than 0 or higher than 1200");
         }
