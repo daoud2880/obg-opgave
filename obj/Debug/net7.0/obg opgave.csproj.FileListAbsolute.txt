@@ -1,0 +1,12 @@
+/Users/daoudahmad/Desktop/obg opgave/bin/Debug/net7.0/obg opgave.deps.json
+/Users/daoudahmad/Desktop/obg opgave/bin/Debug/net7.0/obg opgave.dll
+/Users/daoudahmad/Desktop/obg opgave/bin/Debug/net7.0/obg opgave.pdb
+/Users/daoudahmad/Desktop/obg opgave/obj/Debug/net7.0/obg opgave.csproj.AssemblyReference.cache
+/Users/daoudahmad/Desktop/obg opgave/obj/Debug/net7.0/obg opgave.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daoudahmad/Desktop/obg opgave/obj/Debug/net7.0/obg opgave.AssemblyInfoInputs.cache
+/Users/daoudahmad/Desktop/obg opgave/obj/Debug/net7.0/obg opgave.AssemblyInfo.cs
+/Users/daoudahmad/Desktop/obg opgave/obj/Debug/net7.0/obg opgave.csproj.CoreCompileInputs.cache
+/Users/daoudahmad/Desktop/obg opgave/obj/Debug/net7.0/obg opgave.dll
+/Users/daoudahmad/Desktop/obg opgave/obj/Debug/net7.0/refint/obg opgave.dll
+/Users/daoudahmad/Desktop/obg opgave/obj/Debug/net7.0/obg opgave.pdb
+/Users/daoudahmad/Desktop/obg opgave/obj/Debug/net7.0/ref/obg opgave.dll
