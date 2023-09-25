@@ -1,36 +1,17 @@
 ﻿<Properties StartupConfiguration="{E3EE7CBE-D496-4911-ADA8-667B09118A28}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.obg_220Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="BooksRepository.cs">
     <Files>
-      <File FileName="../obg Test/UnitTest1.cs" Line="42" Column="83" />
-      <File FileName="Book.cs" Line="28" Column="21" />
-      <File FileName="../obg Test/Usings.cs" Line="1" Column="1" />
-      <File FileName="BooksRepository.cs" Line="18" Column="89" />
+      <File FileName="../obg Test/UnitTest1.cs" />
+      <File FileName="Book.cs" />
+      <File FileName="../obg Test/Usings.cs" />
+      <File FileName="BooksRepository.cs" Line="66" Column="1" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="obg opgave ">
-            <Node name="obg opgave">
-              <Node name="BooksRepository.cs" selected="True" />
-            </Node>
-            <Node name="obg Test" expanded="True" />
-          </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="obg opgave ">
-            <Node name="obg Test" expanded="True" />
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.obg_220Test PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
 </Properties>
