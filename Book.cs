@@ -31,5 +31,11 @@ public class Book
         }
     }
 
+    public void ValidateAll()
+    {
+        ValidatePrice();
+        ValidateTitle();
+    }
+
 }
 

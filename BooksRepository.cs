@@ -60,6 +60,38 @@ namespace obg_opgave
             return _books.FirstOrDefault(t => t.Id == id);
 
         }
+
+        public Book AddBook(Book book)
+        {
+            book.ValidateAll();
+            book.Id = _nextId++;
+            _books.Add(book);
+            return book;
+        }
+
+        public Book Delete(int id)
+        {
+            Book? book = GetById(id);
+            if (book == null)
+            {
+                return null;
+            }
+            _books.Remove(book);
+            return book;
+        }
+
+        public Book Update(int id, Book book)
+        {
+            book.ValidateAll();
+            Book? bookToBeUpdated = GetById(id);
+            if (bookToBeUpdated == null)
+            {
+                return null;
+            }
+            bookToBeUpdated.Title = book.Title;
+            bookToBeUpdated.Price = book.Price;
+            return bookToBeUpdated;
+        }
     }
 }
 
